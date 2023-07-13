@@ -53,7 +53,7 @@ Users should be able to:
 ### What I learned
 
 
-Creating an advice app using React, the Fetch API, custom CSS, useState, and useEffect hooks has been an enlightening journey. I've learned how to build interactive web applications, fetch data from APIs, and modularize code effectively. The useState hook helped manage component state, while the useEffect hook handled side effects seamlessly. Custom CSS allowed me to craft visually appealing UI, enhancing user engagement. This project has honed my React skills and deepened my understanding of essential web development concepts.
+Creating an advice app using React, the Fetch API, custom CSS, useState, and useEffect hooks has been an enlightening journey. I've learned how to build interactive web applications, fetch data from APIs, and modularize code effectively. The useState hook helped manage the Component state, while the useEffect hook handled side effects seamlessly. Custom CSS allowed me to craft visually appealing UI, enhancing user engagement. This project has honed my React skills and deepened my understanding of essential web development concepts.
 
 Some  code I'm proud of
 
