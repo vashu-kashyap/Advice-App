@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-!['screenshot of advice app']()
+!['screenshot of advice app'](public/Advice-App.png)
 
 
 
